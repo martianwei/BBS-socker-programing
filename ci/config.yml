@@ -1,0 +1,5 @@
+# -4 = debug, 0 = info, 4 = warning, 8 = error
+logLevel: -4
+
+apiServer:
+  port: 8080
